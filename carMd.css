@@ -1,0 +1,83 @@
+@media screen and (max-width:1055px) {
+  
+#container{
+height: auto;
+}
+#part7{
+    font-size: 30px;
+}
+#part8{
+    font-size: 26px;
+}
+#part9{
+    font-size: 18px;
+}
+#keyH1{
+    margin: 20px;
+}
+#imgcar1{
+height: 400px;
+width:450px;
+position: relative;
+}
+button{
+    margin-top: 10px;
+}
+#keyhighlight{
+    height: auto;
+}
+#heading2{
+    line-height:40px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+#heading3{
+    line-height: 60px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+#containerKey{
+    overflow: scroll;
+    position: relative;
+    left:10px;
+    
+}
+#xplore1{
+    left:10px;
+}
+#imgCar2{
+    height: auto;
+}
+}
+@media (max-width:800px){
+
+    #container{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        align-content: center;
+
+    }
+    #imgcar1{
+        height: 300px;
+    }
+    #container1{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
+    #container2{
+        height: auto;
+        width: 100%;
+        position: relative;
+        bottom:150px
+    }
+    #heading2{
+        position: relative;
+        top:30px;
+    }
+    #heading3{
+        width: 100%;
+    }
+}
